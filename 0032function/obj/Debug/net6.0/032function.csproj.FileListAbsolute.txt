@@ -1,0 +1,15 @@
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\032function\obj\Debug\net6.0\032function.csproj.AssemblyReference.cache
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\032function\obj\Debug\net6.0\032function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\032function\obj\Debug\net6.0\032function.AssemblyInfoInputs.cache
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\032function\obj\Debug\net6.0\032function.AssemblyInfo.cs
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\032function\obj\Debug\net6.0\032function.csproj.CoreCompileInputs.cache
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\032function\bin\Debug\net6.0\032function.exe
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\032function\bin\Debug\net6.0\032function.deps.json
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\032function\bin\Debug\net6.0\032function.runtimeconfig.json
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\032function\bin\Debug\net6.0\032function.dll
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\032function\bin\Debug\net6.0\032function.pdb
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\032function\obj\Debug\net6.0\032function.dll
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\032function\obj\Debug\net6.0\refint\032function.dll
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\032function\obj\Debug\net6.0\032function.pdb
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\032function\obj\Debug\net6.0\032function.genruntimeconfig.cache
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\032function\obj\Debug\net6.0\ref\032function.dll

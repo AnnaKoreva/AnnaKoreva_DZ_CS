@@ -1,0 +1,5 @@
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\static_and_non_static\obj\Debug\net6.0\static_and_non_static.csproj.AssemblyReference.cache
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\static_and_non_static\obj\Debug\net6.0\static_and_non_static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\static_and_non_static\obj\Debug\net6.0\static_and_non_static.AssemblyInfoInputs.cache
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\static_and_non_static\obj\Debug\net6.0\static_and_non_static.AssemblyInfo.cs
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\DZ76CS_Koreva_Anna\static_and_non_static\obj\Debug\net6.0\static_and_non_static.csproj.CoreCompileInputs.cache

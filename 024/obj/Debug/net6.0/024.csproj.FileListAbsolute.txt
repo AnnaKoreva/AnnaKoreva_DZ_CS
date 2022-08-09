@@ -1,0 +1,15 @@
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\024\obj\Debug\net6.0\024.csproj.AssemblyReference.cache
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\024\obj\Debug\net6.0\024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\024\obj\Debug\net6.0\024.AssemblyInfoInputs.cache
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\024\obj\Debug\net6.0\024.AssemblyInfo.cs
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\024\obj\Debug\net6.0\024.csproj.CoreCompileInputs.cache
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\024\bin\Debug\net6.0\024.exe
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\024\bin\Debug\net6.0\024.deps.json
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\024\bin\Debug\net6.0\024.runtimeconfig.json
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\024\bin\Debug\net6.0\024.dll
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\024\bin\Debug\net6.0\024.pdb
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\024\obj\Debug\net6.0\024.dll
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\024\obj\Debug\net6.0\refint\024.dll
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\024\obj\Debug\net6.0\024.pdb
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\024\obj\Debug\net6.0\024.genruntimeconfig.cache
+C:\Desktop\гикбрейнс\C#\basic_CS_KorevaAnna\024\obj\Debug\net6.0\ref\024.dll

@@ -1,0 +1,15 @@
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\062\bin\Debug\net6.0\062.exe
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\062\bin\Debug\net6.0\062.deps.json
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\062\bin\Debug\net6.0\062.runtimeconfig.json
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\062\bin\Debug\net6.0\062.dll
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\062\bin\Debug\net6.0\062.pdb
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\062\obj\Debug\net6.0\062.csproj.AssemblyReference.cache
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\062\obj\Debug\net6.0\062.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\062\obj\Debug\net6.0\062.AssemblyInfoInputs.cache
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\062\obj\Debug\net6.0\062.AssemblyInfo.cs
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\062\obj\Debug\net6.0\062.csproj.CoreCompileInputs.cache
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\062\obj\Debug\net6.0\062.dll
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\062\obj\Debug\net6.0\refint\062.dll
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\062\obj\Debug\net6.0\062.pdb
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\062\obj\Debug\net6.0\062.genruntimeconfig.cache
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\062\obj\Debug\net6.0\ref\062.dll

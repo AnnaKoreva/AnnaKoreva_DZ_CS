@@ -1,0 +1,15 @@
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\053\obj\Debug\net6.0\053.csproj.AssemblyReference.cache
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\053\obj\Debug\net6.0\053.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\053\obj\Debug\net6.0\053.AssemblyInfoInputs.cache
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\053\obj\Debug\net6.0\053.AssemblyInfo.cs
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\053\obj\Debug\net6.0\053.csproj.CoreCompileInputs.cache
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\053\bin\Debug\net6.0\053.exe
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\053\bin\Debug\net6.0\053.deps.json
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\053\bin\Debug\net6.0\053.runtimeconfig.json
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\053\bin\Debug\net6.0\053.dll
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\053\bin\Debug\net6.0\053.pdb
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\053\obj\Debug\net6.0\053.dll
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\053\obj\Debug\net6.0\refint\053.dll
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\053\obj\Debug\net6.0\053.pdb
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\053\obj\Debug\net6.0\053.genruntimeconfig.cache
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\053\obj\Debug\net6.0\ref\053.dll

@@ -1,0 +1,15 @@
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\061\obj\Debug\net6.0\061.csproj.AssemblyReference.cache
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\061\obj\Debug\net6.0\061.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\061\obj\Debug\net6.0\061.AssemblyInfoInputs.cache
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\061\obj\Debug\net6.0\061.AssemblyInfo.cs
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\061\obj\Debug\net6.0\061.csproj.CoreCompileInputs.cache
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\061\bin\Debug\net6.0\061.exe
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\061\bin\Debug\net6.0\061.deps.json
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\061\bin\Debug\net6.0\061.runtimeconfig.json
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\061\bin\Debug\net6.0\061.dll
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\061\bin\Debug\net6.0\061.pdb
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\061\obj\Debug\net6.0\061.dll
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\061\obj\Debug\net6.0\refint\061.dll
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\061\obj\Debug\net6.0\061.pdb
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\061\obj\Debug\net6.0\061.genruntimeconfig.cache
+C:\Users\МК-008\Desktop\Geekbrains\C#\CS_HW\061\obj\Debug\net6.0\ref\061.dll

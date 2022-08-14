@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\МК-008\\.nuget\\packages\\": {}
+    "C:\\Users\\KAS-002\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\МК-008\\Desktop\\Geekbrains\\C#\\CS_HW\\071\\071.csproj",
+      "projectUniqueName": "C:\\Desktop\\гикбрейнс\\C#\\basic_CS_KorevaAnna\\DZ76CS_Koreva_Anna2\\071\\071.csproj",
       "projectName": "071",
-      "projectPath": "C:\\Users\\МК-008\\Desktop\\Geekbrains\\C#\\CS_HW\\071\\071.csproj",
-      "packagesPath": "C:\\Users\\МК-008\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\МК-008\\Desktop\\Geekbrains\\C#\\CS_HW\\071\\obj\\",
+      "projectPath": "C:\\Desktop\\гикбрейнс\\C#\\basic_CS_KorevaAnna\\DZ76CS_Koreva_Anna2\\071\\071.csproj",
+      "packagesPath": "C:\\Users\\KAS-002\\.nuget\\packages\\",
+      "outputPath": "C:\\Desktop\\гикбрейнс\\C#\\basic_CS_KorevaAnna\\DZ76CS_Koreva_Anna2\\071\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\МК-008\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\KAS-002\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

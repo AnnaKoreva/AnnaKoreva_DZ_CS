@@ -1,6 +1,6 @@
 ﻿// Написать программу вычисления функции Аккермана - 5*
-int m = 4;
-int n = 4;
+int m = 3;
+int n = 3;
 System.Console.WriteLine(A(m,n));
 int A(int m, int n)
 {
